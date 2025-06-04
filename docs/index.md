@@ -6,11 +6,11 @@ This guide describes the structure and programs of the GMML2 library. It aims to
 
 [Carbohydrate builder](carbohydrate-builder.md)
 
+[Draw glycan](draw-glycan.md)
+
 [Glycoprotein builder](glycoprotein-builder.md)
 
 [Glycoprotein builder table](glycoprotein-builder-table.md)
-
-[Draw glycan](draw-glycan.md)
 
 [Wiggle to site](wiggle-to-site.md)
 
