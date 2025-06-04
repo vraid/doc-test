@@ -18,7 +18,7 @@ Wiggle to site
 
 Repository
 
-Code (includes, src)
+Code
 
 ### Practical how-to's
 
