@@ -16,14 +16,14 @@ This guide describes the structure and programs of the GMML2 library. It aims to
 
 ### Directory structure
 
-Repository
+[Repository](repository.md)
 
-Code
+[Code](code.md)
 
 ### Practical how-to's
 
-Compiling
+[Compiling](compiling.md)
 
-Testing
+[Testing](testing.md)
 
-Releases and versioning
+[Releases and versioning](releases-versioning.md)
